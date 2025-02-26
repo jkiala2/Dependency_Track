@@ -1,7 +1,7 @@
 # Getting Started with Dependency Track
 *Last updated: 20/10/2024*
 
-![dependency-track logo](https://example.com/logo.png)
+![dependency-track logo](./images/logo.png)
 
 ## Introduction
 
