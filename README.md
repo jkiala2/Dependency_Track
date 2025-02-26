@@ -1,13 +1,4 @@
 # Getting Started with Dependency Track
-*Last updated: 20/10/2024*
-
-![dependency-track logo](./images/logo.png)
-
-## Introduction
-
-I will introduce you to Dependency Track, an open-source tool designed to help development and security teams manage vulnerabilities in software dependencies.
-
-## Why use Dependency Track?
 
 Securing the software supply chain has become a critical issue with the rise of cyberattacks targeting software dependencies and third-party components. In a context where many companies use open-source libraries and tools, it is essential to ensure that every component used in their projects is secure and free from known vulnerabilities.
 
