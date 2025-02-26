@@ -23,7 +23,7 @@ Change to the Docker directory where the docker-compose.yml file is located:
 
 Before proceeding with the deployment, it’s good to open and review the docker-compose.yml file to ensure it suits your needs (such as verifying ports, IP addresses, and configurations). You can open it with a text editor:
 
-nano docker-compose.yml
+- nano docker-compose.yml
 
 Make any necessary adjustments, such as updating the IP address of your machine or any environment variables that you need to change.
 
